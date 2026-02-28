@@ -23,6 +23,6 @@ wandb/*
 *.pyc
 selected_data/*
 *.npy
-*.jpg
+# *.jpg
 *.pkl
 *.jinja
