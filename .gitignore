@@ -5,7 +5,7 @@ __pycache__/*
 # *.csv
 *.pt
 *.txt
-*.jsonl
+# *.jsonl
 *.json
 *.DS_Store
 *.xml

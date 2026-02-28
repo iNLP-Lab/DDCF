@@ -28,7 +28,7 @@ TASKS = [
 ]
 
 # Tasks that use pass-k > 1 (multiple samples per question)
-PASS_K_TASKS = {"aime24", "aime25", "amc23"}
+PASS_K_TASKS = {"aime24", "amc23"}
 
 EVAL_DATA_DIR = Path(__file__).resolve().parent / "data"
 SYSTEM_PROMPT = "<|im_start|>system\n" "Please reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n"
