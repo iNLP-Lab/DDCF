@@ -10,7 +10,7 @@ __pycache__/*
 *.DS_Store
 *.xml
 *.html
-*.sh
+# *.sh
 *.pdf
 *.arrow
 *.safetensors
