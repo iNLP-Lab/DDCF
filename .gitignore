@@ -2,7 +2,7 @@
 *.ipynb
 *.tar
 __pycache__/*
-*.csv
+# *.csv
 *.pt
 *.txt
 *.jsonl
