@@ -7,6 +7,21 @@ If you have any questions, please don't hesitate to contact me: longhp1618@gmail
     <img src="figures/DDCF_thumbnail.jpg" width="1000">
 </p>  
 
+# Environment Setup
+
+1. **Create a virtual environment**:
+   ```bash
+   conda create -n ddcf python=3.10 -y
+   conda activate ddcf
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+
 # Scripts Overview
 
 | Script | Description |
